@@ -1,9 +1,10 @@
 rajesh kumar saini 
 banglore
-<<<<<<< HEAD
+
 
 
 this is a next line change dont worry
-=======
+
 this is my testing
->>>>>>> b73f88f03ed6e3a1567275e086206c16abd08e0a
+
+
